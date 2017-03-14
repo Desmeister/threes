@@ -1,0 +1,28 @@
+Mar 13
+- Finished project proposal form
+
+Mar 15
+- Carlo: Wrote assembly for drawing box with VGA (assembly)
+- Desmond: Wrote majority of logic code for creating the 4x4 grid and sliding blocks (C)
+
+Mar 16
+- Desmond: Determined specific behaviour of block movement in the actual Threes! game
+- Desmond: Finished C code for game
+- Carlo: Rewrote VGA assembly code into functions (drawbox, drawpixel)
+
+Mar 17 - Mar 30
+- Carlo: Learned how to go about saving images to RGB 565 format and storing in memory
+- Carlo: Determined how the PS/2 keyboard detects and sends key presses
+- Desmond: Made some graphics for use in the program
+- Desmond: Learned how to make a random number generator without using C
+- Desmond: Currently converting game logic code from C to assembly
+
+Mar 31 - Apr 6
+- Carlo: Implemented drawImage function using drawPixel function and bmp files
+- Carlo: Implemented playSound function using wav files
+- Carlo: Made function to draw current grid / update grid
+- Carlo: Added some sound effects
+- Carlo: Added function print score using character buffer
+- Desmond:	Translated all game logic into assembly
+- Desmond:	Error checked and bugfixed the program
+- Desmond:	Drew graphics for the VGA
